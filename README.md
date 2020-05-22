@@ -90,8 +90,10 @@ Inside the `robot_sort` directory you'll find the `robot_sort.py` file. Open it 
 * There is no efficiency requirement but you may lose points for an unreasonably slow solution. Tests should run in far less than 1 second.
 
 * We discussed a sorting method this week that might be useful. Which one?
+  -- Selective sort
 
 * The robot has exactly one bit of memory: its light. Why is this important?
+ -- A bit is a binary digit for memory this is important because... 🤷‍♀️
 
 Run `python test_robot.py` to run the tests for your `robot_sort()` function to ensure that your implementation is correct.
 
